@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="./style.css">
+    <title>Product Listing Page</title>
+</head>
+<body>
+
+    <div class="container">
+        <h1 class="title">Select Your Choice</h1>
+        <div class="buttons-container">
+            <button type="button" class="button" id="Men" value="men" onclick="filterProduct('Men')">Men</button>
+            <button type="button" class="button" id="Women" value="women" onclick="filterProduct('Women')">Women</button>
+            <button type="button" class="button" id="Kids" value="kids" onclick="filterProduct('Kids')">Kids</button>
+        </div>
+        <div id="cardContainer" class="card-container">
+
+        </div>
+    </div>
+
+    <script type="text/javascript" src="./script.js"></script>
+</body>
+</html>
