@@ -1,0 +1,350 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
+
+* {
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+
+.container {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: antiquewhite;
+}
+
+.title {
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+    color: #000000;
+}
+
+.buttons-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.button {
+    border: none;
+    outline: none;
+    background-color: #e6e6e6;
+    color: #000000;
+    border-radius: 4px;
+    margin: 0 10px;
+    padding: 6px 23px;
+    font-size: 12px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 10px;
+    width: 95%;
+    max-width: 1600px;
+}
+
+.card-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 10px;
+    background-color: #00000010;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+
+.image-container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    height: 280px;
+    transition: all 0.3s ease-in-out;
+}
+
+.image-container:hover {
+    transform: scale(1.05);
+}
+
+.new-season {
+    position: absolute;
+    top: 8px;
+    left: 14px;
+    background-color: #ffffffcc;
+    font-size: 9px;
+    font-weight: bold;
+    text-align: center;
+    border-radius: 3px;
+    padding: 6px 10px;
+}
+
+.product-img-1 {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+.product-img-2 {
+    display: none;
+}
+
+.image-content {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 15px;
+    margin-top: 8px;
+    width: 100%;
+}
+
+.card-title {
+    font-size: 16px;
+    width: 100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.website {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.price-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.price-container .price {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.price-container .price-cross {
+    font-size: 14px;
+    text-decoration: line-through;
+    color: #8b8b8be7;
+}
+
+.price-container .discount {
+    font-size: 12px;
+    font-weight: bold;
+    color: #ff905a;
+}
+
+.bottom-btn-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+    width: 100%;
+}
+
+.btn {
+    font-size: 10px;
+    font-weight: 600;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.cart {
+    background-color: #e9ad63;
+    color: #2b2b2b;
+}
+
+.buy {
+    background-color: #2b2b2b;
+    color: #e9ad63;
+}
+
+@media screen and (min-width: 576px) {
+    .title {
+        font-size: 24px;
+    }
+
+    .button {
+        padding: 8px 26px;
+        font-size: 14px;
+    }
+
+    .card-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 20px;
+        flex-wrap: wrap;
+    }
+
+    .card-item {
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+
+    .image-container {
+        width: 200px;
+        height: 300px;
+    }
+
+    .new-season {
+        font-size: 9px;
+        padding: 5px 8px;
+    }
+
+    .image-content {
+        margin-top: 10px;
+    }
+
+    .btn {
+        font-size: 11px;
+        padding: 8px 14px;
+    }
+}
+
+@media screen and (min-width: 768px) {
+    .title {
+        font-size: 28px;
+    }
+
+    .button {
+        padding: 10px 28px;
+        font-size: 16px;
+    }
+
+    .image-container {
+        width: 220px;
+        height: 320px;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .title {
+        font-size: 32px;
+    }
+
+    .image-container {
+        width: 240px;
+        height: 340px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .title {
+        font-size: 36px;
+    }
+
+    .image-container {
+        width: 260px;
+        height: 360px;
+    }
+
+    .card-item {
+        margin-bottom: 30px;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+}
+
+@media screen and (min-width: 1440px) {
+    .title {
+        font-size: 48px;
+        font-weight: bolder;
+    }
+
+    .buttons-container {
+        margin: 25px 0;
+    }
+
+    .button {
+        padding: 12px 36px;
+        font-size: 18px;
+        margin: 0 15px;
+    }
+
+    .card-item {
+        margin-bottom: 60px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .image-container {
+        width: 280px;
+        height: 380px;
+    }
+
+    .new-season {
+        padding: 6px 12px;
+        font-size: 11px;
+    }
+
+    .image-content {
+        margin-top: 15px;
+        justify-content: space-between;
+        padding: 0 10px;
+    }
+
+    .card-title {
+        font-size: 20px;
+        width: 180px;
+    }
+
+    .website {
+        font-size: 16px;
+        font-weight: normal;
+    }
+
+    .price-container {
+        justify-content: flex-start;
+        padding: 0 10px;
+    }
+
+    .price-container .price {
+        font-size: 20px;
+    }
+
+    .price-container .price-cross {
+        font-size: 16px;
+        padding-left: 8px;
+    }
+
+    .price-container .discount {
+        font-size: 12px;
+        padding-left: 8px;
+    }
+
+    .bottom-btn-container {
+        margin-top: 18px;
+    }
+
+    .btn {
+        padding: 10px 20px;
+        font-size: 14px;
+    }
+}

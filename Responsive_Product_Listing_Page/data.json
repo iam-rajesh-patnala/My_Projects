@@ -1,0 +1,619 @@
+{
+	"categories": [
+		{
+			"category_name": "Men",
+			"category_products": [
+				{
+					"id": "1",
+					"title": "Mens Kurta",
+					"price": "1199",
+					"compare_at_price": "1299",
+					"vendor": "Manyvar",
+					"badge_text": "Wedding Special",
+					"image": "https://plus.unsplash.com/premium_photo-1682090786689-741d60a11384",
+					"second_image": "https://plus.unsplash.com/premium_photo-1682090781379-4d177df45267"
+				},
+				{
+					"id": "2",
+					"title": "RCB Tshirt",
+					"price": "2199",
+					"compare_at_price": "4299",
+					"vendor": "Puma",
+					"badge_text": null,
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22462330/2023/3/22/27a1d087-dc81-46a0-9b86-505f6491b5931679431326265RoyalChallengersBangalore2023MensReplicaJersey1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22462330/2023/3/22/e0ac3f07-f869-4d36-a8fa-47bab62c579e1679431326230RoyalChallengersBangalore2023MensReplicaJersey3.jpg"
+				},
+				{
+					"id": "3",
+					"title": "Green Charm",
+					"price": "1399",
+					"compare_at_price": "1499",
+					"vendor": "Myntra",
+					"badge_text": "On offer",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22372642/2023/3/16/52d27507-a870-456b-addd-e62aefa0f79a1678911375020ESSLogoRegularFitMensT-Shirt1.jpg",
+					"second_image": "empty"
+				},
+				{
+					"id": "4",
+					"title": "Mens Tshirt",
+					"price": "599",
+					"compare_at_price": "799",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24055686/2023/7/26/215a939a-b567-4110-9a2b-33d0e191d5c61690363492956-Ess-Multicolor-Mens-T-shirt-971690363492544-1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24055686/2023/7/26/51b94b0f-b2f1-4f40-a976-0a9b3110114c1690363492943-Ess-Multicolor-Mens-T-shirt-971690363492544-2.jpg"
+				},
+				{
+					"id": "5",
+					"title": "Mens shirt",
+					"price": "791",
+					"compare_at_price": "3299",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29928657/2024/6/8/bc78a420-d558-4801-a64f-01366c58203e1717855446185THEBEARHOUSEMenMultiStripesOpaqueStripedCasualShirt2.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29928657/2024/6/8/dd9c6c0b-7105-42db-9edc-c2fdd5c894941717855446214THEBEARHOUSEMenMultiStripesOpaqueStripedCasualShirt6.jpg"
+				},
+				{
+					"id": "6",
+					"title": "Men Slim Fit Solid Spread Collar Casual Shirt",
+					"price": "399",
+					"compare_at_price": "1899",
+					"vendor": "Flipkart",
+					"badge_text": "Special price",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/r/9/n/xxl-patta-14-jai-textiles-original-imagn2fzpawqukgq.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/l/8/i/xxl-patta-14-jai-textiles-original-imagn2fzxhg6epfu.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "7",
+					"title": "Tartan Checked Opaque India Slim Casual Shirt",
+					"price": "863",
+					"compare_at_price": "1799",
+					"vendor": "Myntra",
+					"badge_text": "Special price",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24681544/2023/8/27/eefafaad-aebc-49a3-9bde-208eb902e0651693149944897PowerlookMenGreyTartanChecksOpaqueCheckedCasualShirt4.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24681544/2023/8/27/d570db49-94d1-4cc1-996a-b1c40d28a7561693149944837PowerlookMenGreyTartanChecksOpaqueCheckedCasualShirt1.jpg"
+				},
+				{
+					"id": "8",
+					"title": "Men Regular Fit Solid Spread Collar Casual Shirt",
+					"price": "389",
+					"compare_at_price": "1699",
+					"vendor": "Flipkart",
+					"badge_text": "Special Offer",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/o/r/n/s-a-lee-4-lee-cross-original-imag5w7ywfzbfsgy-bb.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/ksaoqkw0/shirt/k/n/y/s-a-lee-4-lee-cross-original-imag5w7yxnb4thdn.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "9",
+					"title": "Printed Hooded Sweatshirt",
+					"price": "839",
+					"compare_at_price": "2399",
+					"vendor": "Myntra",
+					"badge_text": "Special price",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25558292/2023/12/6/eeb99fda-ecfa-4786-b221-43a2a2862b061701834318612-WROGN-Printed-Hooded-Sweatshirt-131701834318145-1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25558292/2023/12/6/fb6e5319-743a-480f-b90e-6955742c5dd81701834318590-WROGN-Printed-Hooded-Sweatshirt-131701834318145-4.jpg"
+				},
+				{
+					"id": "10",
+					"title": "Men Slim Fit Printed Spread Collar Casual Shirt",
+					"price": "355",
+					"compare_at_price": "1299",
+					"vendor": "Flipkart",
+					"badge_text": "Special price",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/d/k/r/l-men-slim-fit-printed-cut-away-collar-casual-shirt-certizo-original-imagr92awhb3s6gb.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/1/b/8/l-men-slim-fit-printed-cut-away-collar-casual-shirt-certizo-original-imagr92aczsu34u5.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "11",
+					"title": "Roadster",
+					"price": "659",
+					"compare_at_price": "1999",
+					"vendor": "Myntra",
+					"badge_text": "Special price",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24896056/2023/9/19/2e8eec06-8537-4ce1-910d-ee6bd8b257f41695114751381-Roadster-Men-Sweatshirts-4741695114750921-1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24896056/2023/9/19/f24af83d-f28d-4a0f-a356-1a4c1d977f9f1695114751325-Roadster-Men-Sweatshirts-4741695114750921-4.jpg"
+				},
+				{
+					"id": "12",
+					"title": "Campus Sutra",
+					"price": "1154",
+					"compare_at_price": "3499",
+					"vendor": "Myntra",
+					"badge_text": "Special price",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26130150/2023/11/29/c208c973-87ef-4844-81c7-9ee664c7f4251701256265224CampusSutraMenTanSuedeWindcheaterOutdoorBikerJacket1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26130150/2023/11/29/ba6aa7f8-c029-474a-b01f-c7c4572952801701256265193CampusSutraMenTanSuedeWindcheaterOutdoorBikerJacket4.jpg"
+				},
+				{
+					"id": "13",
+					"title": "Men Regular Fit Printed Mandarin Collar Casual Shirt",
+					"price": "299",
+					"compare_at_price": "799",
+					"vendor": "Flipkart",
+					"badge_text": "Special price",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/o/t/5/s-bnd-21-foxhil-fashion-original-imagehhsgkdnfbab.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shirt/p/i/r/s-bnd-21-foxhil-fashion-original-imagehhsczq9xgs4.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "14",
+					"title": "Allen Solly",
+					"price": "4199",
+					"compare_at_price": "6999",
+					"vendor": "Myntra",
+					"badge_text": "Special price",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23231780/2023/11/24/a4c6e7e2-ab08-4814-b444-a91b7d3b372c1700808552153-Allen-Solly-Men-Blazers-2971700808551667-1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23231780/2023/11/24/ba95278b-171c-4d4e-81da-5744658f02dc1700808552140-Allen-Solly-Men-Blazers-2971700808551667-3.jpg"
+				},
+				{
+					"id": "15",
+					"title": "Men Cotton Blend Kurta Pyjama Set",
+					"price": "769",
+					"compare_at_price": "3076",
+					"vendor": "Flipkart",
+					"badge_text": "Hot deal",
+					"image": "https://rukminim1.flixcart.com/image/2348/2348/xif0q/ethnic-set/l/m/0/xl-01mensequinks2-blackblack-murta-original-imahfxgn3qhzyxzy.jpeg?q=90&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/ethnic-set/g/y/3/xxl-03mensequinks2-blackblack-murta-original-imah29qfgfsnngys.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "16",
+					"title": "Jompers",
+					"price": "1209",
+					"compare_at_price": "6999",
+					"vendor": "Myntra",
+					"badge_text": "Special price",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24199218/2023/7/27/317bf110-24bf-4f63-968f-69bc548980e61690400451582JompersMenGreyEmbroideredRegularSequinnedPureCottonKurtawith2.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24199218/2023/7/27/bf424384-2709-455c-8e33-af73b5d045c21690400451550JompersMenGreyEmbroideredRegularSequinnedPureCottonKurtawith1.jpg"
+				},
+				{
+					"id": "17",
+					"title": "Men Coat and Trouser Solid Suit",
+					"price": "3149",
+					"compare_at_price": "6999",
+					"vendor": "Flipkart",
+					"badge_text": "Special Offer",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/suit/t/q/u/34-navy-darbar-in-original-imahfyztbszyz7s2.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/suit/z/k/b/34-navy-darbar-in-original-imahfyztr5yfqqxb.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "18",
+					"title": "See Designs",
+					"price": "1924",
+					"compare_at_price": "5499",
+					"vendor": "Myntra",
+					"badge_text": "Special Offer",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27475388/2024/2/9/8acb495a-5f63-4360-8602-c2bca6d3a3c51707470237255MenLimeGreenSequinsWovenDesignsKurtaWithPatialaSalwar1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27475388/2024/2/9/576d3376-63a5-4a11-b2d4-ca61ec3a67cd1707470237276MenLimeGreenSequinsWovenDesignsKurtaWithPatialaSalwar4.jpg"
+				},
+				{
+					"id": "19",
+					"title": "Men Printed Round Neck Polyester Dark Green T-Shirt",
+					"price": "379",
+					"compare_at_price": "1299",
+					"vendor": "Flipkart",
+					"badge_text": "Special price",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/s/3/a/xxl-9454-olive-e-max-original-imagvypry2a4pvbt.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/t-shirt/1/2/n/xxl-9454-olive-e-max-original-imagvypreawhtrfm.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "20",
+					"title": "Mast & Harbour",
+					"price": "719",
+					"compare_at_price": "1799",
+					"vendor": "Myntra",
+					"badge_text": "Special Offer",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23102788/2023/10/12/f7fc273f-ed3d-4c80-b8db-465beb7e40d51697086343916-Mast--Harbour-Men-Sweatshirts-9201697086343553-1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23102788/2023/10/12/a1620bb6-9d33-4d28-bc68-859cb20b94dd1697086343903-Mast--Harbour-Men-Sweatshirts-9201697086343553-3.jpg"
+				}
+			]
+		},
+		{
+			"category_name": "Women",
+			"category_products": [
+				{
+					"id": "1w",
+					"title": "Women Kurti",
+					"price": "1199",
+					"compare_at_price": "1299",
+					"vendor": "Manyvar",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24538028/2023/8/25/cb1a5027-184f-4c8a-a96b-154987ff47f31692955360626-HERENOW-Women-Kurtis-1661692955360126-1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24538028/2023/8/25/3c5fdff6-e41a-4bbe-9539-11c9ea6a1c8f1692955360564-HERENOW-Women-Kurtis-1661692955360126-3.jpg"
+				},
+				{
+					"id": "2w",
+					"title": "Yellow casual dress",
+					"price": "199",
+					"compare_at_price": "299",
+					"vendor": "Myntra",
+					"badge_text": null,
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19276232/2022/8/8/55497e43-260c-4a3f-865b-059d9edd861a1659942435451-Women-Yellow-Cotton-Mandarin-Collar-Top-3841659942434972-1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19276232/2022/8/8/c8c6a172-cd4d-4637-9078-2e791cd7dbfe1659942435386-Women-Yellow-Cotton-Mandarin-Collar-Top-3841659942434972-4.jpg"
+				},
+				{
+					"id": "3w",
+					"title": "Women Black & Golden A-Line Kurti",
+					"price": "1399",
+					"compare_at_price": "1499",
+					"vendor": "Myntra",
+					"badge_text": "On offer",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12834502/2020/11/26/e50bd870-573d-4f6f-9ebc-938bda01edc31606382198225WomenBlackMultiColourPrintedKurti1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/12834502/2020/11/26/32c3c29c-5be7-4978-8e03-0851b2ed33601606382198380WomenBlackMultiColourPrintedKurti3.jpg"
+				},
+				{
+					"id": "4w",
+					"title": "Metro-Fashion",
+					"price": "1599",
+					"compare_at_price": "1799",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19381372/2022/8/4/4dc24e8c-f86c-4a85-80a3-a4941c84453b1659612869086METRO-FASHIONWomenBhandhaniPrintedKurtaandPantSetPureCotton1.jpg",
+					"second_image": "https://assets.myntassets.com/h_1440,q_90,w_1080/v1/assets/images/19381372/2022/8/4/4dc24e8c-f86c-4a85-80a3-a4941c84453b1659612869086METRO-FASHIONWomenBhandhaniPrintedKurtaandPantSetPureCotton1.jpg"
+				},
+				{
+					"id": "5w",
+					"title": "Anouk",
+					"price": "989",
+					"compare_at_price": "3299",
+					"vendor": "Myntra",
+					"badge_text": "Trending",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29096468/2024/4/22/04ff3ce1-9e06-40fb-a0ea-55bd5389f2001713760148971AnoukWomenFloralKeyholeNeckFlaredSleevesThreadWorkFloralKurt2.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29096468/2024/4/22/5ea47428-6514-437d-a744-f98de4d3744e1713760148945AnoukWomenFloralKeyholeNeckFlaredSleevesThreadWorkFloralKurt4.jpg"
+				},
+				{
+					"id": "6w",
+					"title": "Varanga",
+					"price": "738",
+					"compare_at_price": "4345",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25260156/2023/9/29/3d04b8b4-1104-4801-bed4-17ebf98223301695968509595KALINIWomenPinkEthnicMotifsYokeDesignRegularGottaPattiKurtaw1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25260156/2023/9/29/4c282fe9-b3d9-416f-8aa0-d7df8316d76d1695968509618KALINIWomenPinkEthnicMotifsYokeDesignRegularGottaPattiKurtaw6.jpg"
+				},
+				{
+					"id": "7w",	
+					"title": "Kalini",
+					"price": "593",
+					"compare_at_price": "3299",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22536178/2023/3/28/060630ba-0cb0-46f5-ab19-59a0d7502af41679989291511KALINIMaroonBlueWovenDesignZariPureSilkKanjeevaramSaree1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22536178/2023/3/28/f3d4d727-a885-4f6a-abb5-e4f5084cd7301679989291537KALINIMaroonBlueWovenDesignZariPureSilkKanjeevaramSaree4.jpg"
+				},
+				{
+					"id": "8w",
+					"title": "Mitera",
+					"price": "1299",
+					"compare_at_price": "6842",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23406594/2023/5/25/f3c8380a-adca-4721-b4e1-ba69bd1fb7de1685020850571MiteraWomensOlivePolyGeorgetteLeheriyaPrintedSaree1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/23406594/2023/5/25/cf0718ea-0974-4119-9025-6d92277eb7681685020850601MiteraWomensOlivePolyGeorgetteLeheriyaPrintedSaree2.jpg"
+				},
+				{
+					"id": "9w",
+					"title": "Based",
+					"price": "799",
+					"compare_at_price": "3996",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29599816/2024/5/17/57e858c2-a537-47f5-b213-5e8e6afdefc21715929992884BAESDFloralPrintPuffSleeveFitFlareMidiDress3.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29599816/2024/5/17/bb467db8-5033-4827-b165-f80579fa140b1715929992865BAESDFloralPrintPuffSleeveFitFlareMidiDress5.jpg"
+				},
+				{
+					"id": "10w",
+					"title": "Antheaa",
+					"price": "1049",
+					"compare_at_price": "2559",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22270028/2023/3/9/10ad5d30-a038-49f1-be5f-53ecc0aafe8c1678369098817AntheaaBlueFloralPrintPuffSleeveChiffonFitFlareMidiDress3.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/22270028/2023/3/9/53637412-f470-46e6-add4-f5224b36e0151678369098882AntheaaBlueFloralPrintPuffSleeveChiffonFitFlareMidiDress5.jpg"
+				},
+				{
+					"id": "11w",
+					"title": "Anbjra",
+					"price": "1371",
+					"compare_at_price": "2799",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19473744/2022/9/13/5b4fc687-b93b-4141-aeb6-1bd82db75e671663054576612-Antheaa-Women-Dresses-631663054576038-1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/19473744/2022/9/13/7f2cc983-2f97-49a5-aac0-2c92ede19db71663054576554-Antheaa-Women-Dresses-631663054576038-4.jpg"
+				},
+				{
+					"id": "12w",
+					"title": "Anouk",
+					"price": "971",
+					"compare_at_price": "2699",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27849892/2024/2/24/19d60321-1b44-4202-b05a-10bb7ef298721708752787748WomensBlackFloralPrintedDress1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27849892/2024/2/24/7541ef7a-3cc7-4b9c-bebf-1683991502281708752787773WomensBlackFloralPrintedDress4.jpg"
+				},
+				{
+					"id": "13w",
+					"title": "Kalini",
+					"price": "899",
+					"compare_at_price": "4999",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25655440/2023/10/27/81d52c4b-3250-4fe5-8b77-8289c86ec4201698400247214KALINIWomenBlueAnarkaliKurta1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/25655440/2023/10/27/406514c9-e57d-4c87-8c3d-0db539e982271698400247219KALINIWomenBlueAnarkaliKurta3.jpg"
+				},
+				{
+					"id": "14w",
+					"title": "Kalini",
+					"price": "899",
+					"compare_at_price": "4999",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27234078/2024/1/30/9e9c4be9-9437-439a-a009-b67a616abefe1706609515133AthenaRuffledGeorgetteMaxiDress5.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27234078/2024/1/30/faf4759c-c676-44cf-b925-ebf2f00046691706609515103AthenaRuffledGeorgetteMaxiDress4.jpg"
+				},
+				{
+					"id": "15w",
+					"title": "Kalini",
+					"price": "899",
+					"compare_at_price": "4999",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27234078/2024/1/30/9e9c4be9-9437-439a-a009-b67a616abefe1706609515133AthenaRuffledGeorgetteMaxiDress5.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/27234078/2024/1/30/faf4759c-c676-44cf-b925-ebf2f00046691706609515103AthenaRuffledGeorgetteMaxiDress4.jpg"
+				},
+				{
+					"id": "16w",
+					"title": "Vasant Apparel",
+					"price": "399",
+					"compare_at_price": "2499",
+					"vendor": "Flipkart",
+					"badge_text": "Special Offer",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/c/c/a/xl-51vs1058kr-vasant-apparel-original-imah2y2kdchzapyk.jpeg",
+					"second_image": "https://rukminim2.flixcart.com/image/200/200/xif0q/icons/original-KTAFYZDBHTRFGGMX_3.jpg"
+				},
+				{
+					"id": "17w",
+					"title": "Armoniya",
+					"price": "452",
+					"compare_at_price": "1899",
+					"vendor": "Flipkart",
+					"badge_text": "Special price",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/b/x/8/l-2002-ktr-armoniya-original-imah2dfkz87ejbzz.jpeg?q=70&crop=false&wid=960&fit=max",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kurta/r/d/k/l-2002-ktr-armoniya-original-imah2dfkg6jdb89c.jpeg?q=70&crop=false&wid=960&fit=max"
+				},
+				{
+					"id": "18w",
+					"title": "LooknBookArt",
+					"price": "1799",
+					"compare_at_price": "4000",
+					"vendor": "Myntra",
+					"badge_text": "Flash sale",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24621594/2023/8/24/0bea2cce-e54b-4357-b5a3-16f7401ca7fc1692851653539GreenColourNarayanPatWithZariWeavingWorkLehengaCholi4.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24621594/2023/8/24/73a907a9-92a0-42ce-9eeb-0794dc79f4061692851653557GreenColourNarayanPatWithZariWeavingWorkLehengaCholi5.jpg"
+				},
+				{
+					"id": "19w",
+					"title": "Canizzaro",
+					"price": "594",
+					"compare_at_price": "1699",
+					"vendor": "Myntra",
+					"badge_text": "Offer price",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26774742/2024/1/4/e888d178-15e3-4b23-bd27-b4a308c44deb1704353157972CANIZZAROGreenEthnicMotifsPrintedDupatta1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26774742/2024/1/4/36d7a048-fffe-47e5-af9a-e3cd39731de71704353157977CANIZZAROGreenEthnicMotifsPrintedDupatta3.jpg"
+				},
+				{
+					"id": "20w",
+					"title": "Maierop",
+					"price": "1799",
+					"compare_at_price": "4000",
+					"vendor": "Myntra",
+					"badge_text": "Offer price",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24621590/2023/8/24/e83096a6-fa77-4798-aa69-fb1c92fa96731692851657483PurpleColourNarayanPatWithZariWeavingWorkLehengaCholi3.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24621590/2023/8/24/e8bf3757-b17a-4392-8ec2-dd05d5c228f91692851657502PurpleColourNarayanPatWithZariWeavingWorkLehengaCholi4.jpg"
+				}
+			]
+		},
+		{
+			"category_name": "Kids",
+			"category_products": [
+				{
+					"id": "1k",
+					"title": "Chicco",
+					"price": "1199",
+					"compare_at_price": "1399",
+					"vendor": "Myntra",
+					"badge_text": "Wedding Special",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14075186/2021/4/12/85af90ad-db0a-47ee-b26f-4b2168cc31ae1618209422880ChiccoBoysWhite1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/14075186/2021/4/12/9a744074-86f3-4c0f-810b-2877e4bdf1701618209422918ChiccoBoysWhite3.jpg"
+				},
+				{
+					"id": "2k",
+					"title": "Girls White & Black Printed Sustainable Tracksuit",
+					"price": "2199",
+					"compare_at_price": "4299",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15597052/2021/9/25/1fe8ff1f-6c80-402e-ac72-cbdccb8f77371632552170304Chicco1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/15597052/2021/9/25/fc288e63-8e9e-4f02-8e70-1a3b7452674f1632552170439Chicco2.jpg"
+				},
+				{
+					"id": "3k",
+					"title": "Custom t-shirt",
+					"price": "1399",
+					"compare_at_price": "1499",
+					"vendor": "Myntra",
+					"badge_text": "On offer",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16951678/2022/1/27/167ed0a2-7936-4d1a-955b-dfff4e53f1281643289347488Tshirts1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16951678/2022/1/27/13822874-aa23-4eb6-ab6a-026021ea503a1643289347112Tshirts2.jpg"
+				},
+				{
+					"id": "4k",
+					"title": "Kids Tshirt",
+					"price": "599",
+					"compare_at_price": "799",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16809172/2023/4/19/ebeec264-7dea-4f8c-88ed-1b9ccd6c6a301681901675455-mothercare-Infant-Girls-Pink--Blue-Printed-Cotton-Top-490168-1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/16809172/2023/4/19/ebeec264-7dea-4f8c-88ed-1b9ccd6c6a301681901675455-mothercare-Infant-Girls-Pink--Blue-Printed-Cotton-Top-490168-1.jpg"
+				},
+				{
+					"id": "5k",
+					"title": "Kids White & Purple Printed Cotton Night Suit",
+					"price": "549",
+					"compare_at_price": "1099",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17322250/2022/6/1/28ada2d2-1868-4f32-993b-b3cdbaad78ee1654060524976frangipaniKidsWhitePurplePrintedCottonNightSuit1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17322250/2022/6/1/418e435c-1aae-479e-9783-ebb53f6769fc1654060525075frangipaniKidsWhitePurplePrintedCottonNightSuit6.jpg"
+				},
+				{
+					"id": "6k",
+					"title": "H&M",
+					"price": "799",
+					"compare_at_price": "1099",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30154323/2024/7/8/39015c1f-f9a2-48b8-9306-1a9004aa85271720458253565HMGirlsPrintedDropShoulderSweartshirt1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/30154323/2024/7/8/304eca2c-278f-4249-9242-0bad5917e6081720458253617HMGirlsPrintedDropShoulderSweartshirt4.jpg"
+				},
+				{
+					"id": "7k",
+					"title": "Baby Boys Casual T-shirt Track Pants  (Multicolor)",
+					"price": "399",
+					"compare_at_price": "1999",
+					"vendor": "Flipkart",
+					"badge_text": "Special Offer",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/a/s/l/4-5-years-printed-emblica-original-imagpyf28fjmyvry.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/g/5/s/4-5-years-printed-emblica-original-imagpyf2tfhdpduy.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "8k",
+					"title": "H&M",
+					"price": "599",
+					"compare_at_price": "999",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26390732/2023/12/13/213b99ce-114a-4bfa-b7bd-9da121b941051702444300309Glitterytulleskirt1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/26390732/2023/12/13/7ba62466-a397-4617-8ae0-9cb0f0d2173c1702444300296Glitterytulleskirt2.jpg"
+				},
+				{
+					"id": "9k",
+					"title": "Dungaree For Baby Boys & Baby Girls Casual Printed, Striped Pure Cotton",
+					"price": "410",
+					"compare_at_price": "999",
+					"vendor": "Flipkart",
+					"badge_text": "Special Offer",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dungaree-romper/w/i/n/12-18-months-ok-ziraf-jeans-limited-edition-prime-original-imagz5gpufkpxt9t.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dungaree-romper/c/k/e/4-5-years-ok-ziraf-jeans-limited-edition-prime-original-imagz5gpzu9uyqmn.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "10k",
+					"title": "Sangria",
+					"price": "598",
+					"compare_at_price": "2900",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29988485/2024/6/18/a0bcf2d5-b563-4f9a-add4-06075f0929e81718707632307SangriaGirlsPrintedCottonA-LineDress1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/29988485/2024/6/18/ab2febcd-e963-4953-a475-8bf794fe95e61718707632273SangriaGirlsPrintedCottonA-LineDress3.jpg"
+				},
+				{
+					"id": "11k",
+					"title": "DEL LUNA",
+					"price": "299",
+					"compare_at_price": "1999",
+					"vendor": "Flipkart",
+					"badge_text": "Special Offer",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-kids-dungaree-romper/u/c/w/1-2-years-dungaree-for-baby-boys-baby-girls-casual-checkered-original-imag9npha4swgu3h.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/shopsy-kids-dungaree-romper/i/3/s/1-2-years-dungaree-for-baby-boys-baby-girls-casual-checkered-original-imag9nph7auyjk8w.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "12k",
+					"title": "Baby Girls Midi/Knee Length Party Dress",
+					"price": "299",
+					"compare_at_price": "789",
+					"vendor": "Flipkart",
+					"badge_text": "Special Offer",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/h/m/f/9-12-months-ar15-arowtex-original-imagudr45mgbhzdg.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/k/h/w/9-12-months-ar15-arowtex-original-imagudr4euapdufk.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "13k",
+					"title": "Lilpicks",
+					"price": "792",
+					"compare_at_price": "1999",
+					"vendor": "Flipkart",
+					"badge_text": "New Arrival",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/o/z/l/8-9-years-lpgdrs3319-lilpicks-original-imahfrxga4yakt29.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/m/m/w/8-9-years-lpgdrs3319-lilpicks-original-imahfrxgebbtwjaf.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "14k",
+					"title": "Fabindia",
+					"price": "1599",
+					"compare_at_price": "1999",
+					"vendor": "Flipkart",
+					"badge_text": "New Arrival",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/s/c/q/2-3-years-1030938softpink-fabindia-original-imah2hzgjapgzzy3.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/q/c/a/2-3-years-1030938softpink-fabindia-original-imah2hzgcvjegjcg.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "15k",
+					"title": "BONKIDS",
+					"price": "742",
+					"compare_at_price": "2249",
+					"vendor": "Myntra",
+					"badge_text": "New season",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24490718/2023/8/14/0d232677-fb7a-4c7b-9987-d14f8f4735871692017716727BONKIDSBoysBlueTartanChecksOpaqueCheckedCasualShirt3.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24490718/2023/8/14/ccf467dc-3e79-4584-85ac-ea0ee741171d1692017716708BONKIDSBoysBlueTartanChecksOpaqueCheckedCasualShirt1.jpg"
+				},
+				{
+					"id": "16k",
+					"title": "Kids Button-down Collar Pure Cotton Casual Shirt",
+					"price": "2474",
+					"compare_at_price": "4499",
+					"vendor": "Myntra",
+					"badge_text": "Flash sale",
+					"image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24435710/2023/8/10/5652723e-63e8-48e9-b3cc-0583778486121691670652116GANTUnisexKidsMulticolouredCheckedCasualShirt1.jpg",
+					"second_image": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/24435710/2023/8/10/22949da3-d7c2-4f99-834e-eb021dda69ea1691670652176GANTUnisexKidsMulticolouredCheckedCasualShirt4.jpg"
+				},
+				{
+					"id": "17k",
+					"title": "Girls Calf Length Party Dress",
+					"price": "299",
+					"compare_at_price": "699",
+					"vendor": "Flipkart",
+					"badge_text": "Special Offer",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/t/h/p/18-24-months-d20-ds-dresses-original-imahfhns4qezubra.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/k/g/v/18-24-months-d20-ds-dresses-original-imahfhnswwkph6r2.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "18k",
+					"title": "Girls Midi/Knee Length Casual Dress",
+					"price": "349",
+					"compare_at_price": "1195",
+					"vendor": "Flipkart",
+					"badge_text": "Special Offer",
+					"image": "https://rukminim1.flixcart.com/image/2348/2348/xif0q/kids-dress/u/t/2/7-8-years-m-c-midi-fuchsiaheart-miss-chief-original-imagmhwzwfxvsvmr.jpeg?q=90&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-dress/y/t/o/7-8-years-m-c-midi-fuchsiaheart-miss-chief-original-imagmhwz4vhrgzbv.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "19k",
+					"title": "Boys Colorblock Pure Cotton T Shirt",
+					"price": "349",
+					"compare_at_price": "1295",
+					"vendor": "Myntra",
+					"badge_text": "Super saver",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-t-shirt/3/v/n/-original-imagu2g2ethhzxtj.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-t-shirt/z/l/g/4-5-years-killer401-killer-original-imagkrqmfcghbzmb.jpeg?q=70&crop=false"
+				},
+				{
+					"id": "20k",
+					"title": "Baby Boys & Baby Girls Casual Sweatshirt Track Suit",
+					"price": "450",
+					"compare_at_price": "1199",
+					"vendor": "Flipkart",
+					"badge_text": "Special Offer",
+					"image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/e/r/u/3-4-years-nice-not-mayneisha-original-imagvcz765tbpjxr.jpeg?q=70&crop=false",
+					"second_image": "https://rukminim2.flixcart.com/image/832/832/xif0q/kids-apparel-combo/b/w/b/3-4-years-nice-not-mayneisha-original-imagvcz7cqzxgvuh.jpeg?q=70&crop=false"
+				}
+			]
+		}
+	]
+}
